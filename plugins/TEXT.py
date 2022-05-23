@@ -1,7 +1,7 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "DcGDriveUploaderBot"
+drive_folder_name = "AnagrupBotArsiv"
 
 
 # Enter Your Mega email And Pass (Required)
